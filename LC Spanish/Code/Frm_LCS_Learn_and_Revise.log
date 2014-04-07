@@ -1,0 +1,11 @@
+Line 82: Class JCSpanish.AutoResize of control Resize was not a loaded control class.
+Line 12: Property Icon in Frm_JCS_Learn_and_Revise had an invalid file reference.
+Line 51: Property Picture in Picture1 had an invalid file reference.
+Line 63: Property Picture in Start_Instruction had an invalid file reference.
+Line 75: Property Picture in Picture2 had an invalid file reference.
+Line 86: The property name _ExtentX in Resize is invalid.
+Line 87: The property name _ExtentY in Resize is invalid.
+Line 88: The property name AspectRatioValue in Resize is invalid.
+Line 343: Property MouseIcon in Menu_Label4 had an invalid file reference.
+Line 365: Property MouseIcon in Menu_Label3 had an invalid file reference.
+Line 387: Property MouseIcon in Menu_Label1 had an invalid file reference.

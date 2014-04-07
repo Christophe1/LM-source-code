@@ -1,0 +1,8 @@
+FrmAboutLM = 66, 87, 455, 377, C, 88, 116, 494, 406, C
+encrypt_and_decrypt = 88, 116, 649, 406, C
+Frm_detect_cd_rom = 0, 0, 342, 290, , 110, 145, 452, 435, C
+questions_and_answers = 66, 87, 397, 377, 
+AutoResize = 0, 0, 0, 0, C, 44, 58, 378, 348, C
+Frm_LCI_Dictionary = 0, 0, 509, 426, C, 167, 66, 551, 403, C
+Frm_LCI_Learn_and_Revise = 22, 29, 412, 319, , 44, 58, 386, 348, C
+Frm_Licence = 0, 0, 0, 0, C, 22, 29, 356, 319, C

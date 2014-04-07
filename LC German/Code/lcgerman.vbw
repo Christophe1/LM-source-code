@@ -1,0 +1,8 @@
+FrmAboutLM = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+encrypt_and_decrypt = 0, 0, 0, 0, C
+Frm_detect_cd_rom = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+AutoResize = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+questions_and_answers = 0, 0, 0, 0, C
+Frm_LCG_Learn_and_Revise = 22, 29, 618, 422, , 44, 58, 551, 510, C
+Frm_LCG_Dictionary = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+Frm_Licence = 0, 0, 0, 0, C, 0, 0, 0, 0, C

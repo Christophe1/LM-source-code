@@ -1,0 +1,6 @@
+encrypt_and_decrypt = 0, 0, 0, 0, C
+Frm_detect_cd_rom = 6, 21, 708, 311, , 22, 29, 302, 319, C
+questions_and_answers = 88, 116, 434, 406, 
+AutoResize = 0, 0, 0, 0, C, 88, 116, 476, 406, C
+Frm_LCS_Dictionary = 0, 0, 551, 452, , 0, 0, 462, 419, C
+Frm_lcs_Learn_and_Revise = 154, 203, 616, 621, , 66, 87, 588, 506, C

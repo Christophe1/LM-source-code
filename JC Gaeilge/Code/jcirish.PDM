@@ -1,0 +1,153 @@
+[Root]
+Most Recent Package=Lingua-Master Jc French
+
+
+[Package|Lingua-Master Jc French|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Installs\Jc French
+
+[Package|Lingua-Master Jc French|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Lingua-Master Jc French|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Lingua-Master Jc French|Files Found]
+
+[Package|Lingua-Master Jc French|Files Released]
+
+[Package|Lingua-Master Jc French|Missing Dependency Information]
+C:\Program Files\Common Files\SYSTEM\ADO\msado20.tlb=
+C:\Program Files\M-M JC Higher Trigonometry\Lingua.ocx=
+C:\Lingua-Master files\Lingua-Master source code\2003\JC French\Code\Richtx32.ocx=
+C:\Program Files\M-M JC Higher Trigonometry\SWFlash.ocx=
+C:\Lingua-Master files\Lingua-Master source code\2003\JC French\Code\WEBPRO32.OCX=
+C:\frenchie\Lingua.ocx=
+C:\frenchie\Richtx32.ocx=
+C:\frenchie\COMDLG32.OCX=
+C:\frenchie\SWFlash.ocx=
+C:\frenchie\WEBPRO32.OCX=
+C:\Lingua-Master files\Lingua-Master source code\2003\JC French\Compiled\Lingua-Master Junior Cert. French\Resize32.ocx=
+C:\Lingua-Master files\Lingua-Master source code\2003\JC French\Compiled\Lingua-Master Junior Cert. French\Mscomctl.ocx=
+C:\Lingua-Master files\Lingua-Master source code\2003\JC French\Compiled\Lingua-Master Junior Cert. French\advpack.dll=
+C:\Lingua-Master files\Lingua-Master source code\2003\JC French\Compiled\Lingua-Master Junior Cert. French\W95INF16.DLL=
+C:\Lingua-Master files\Lingua-Master source code\2003\JC French\Compiled\Lingua-Master Junior Cert. French\w95inf32.dll=
+
+[Package|Lingua-Master Jc French|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\COMDLG32.OCX=
+
+[Package|Lingua-Master Jc French|Files Added]
+C:\Lingua-Master files\Lingua-Master source code\2003\JC French\Compiled\Lingua-Master Junior Cert. French\Resize32.ocx=
+C:\Lingua-Master files\Lingua-Master source code\2003\JC French\Compiled\Lingua-Master Junior Cert. French\Mscomctl.ocx=
+C:\Lingua-Master files\Lingua-Master source code\2003\JC French\Compiled\Lingua-Master Junior Cert. French\advpack.dll=
+C:\Lingua-Master files\Lingua-Master source code\2003\JC French\Compiled\Lingua-Master Junior Cert. French\W95INF16.DLL=
+C:\Lingua-Master files\Lingua-Master source code\2003\JC French\Compiled\Lingua-Master Junior Cert. French\w95inf32.dll=
+
+[Package|Lingua-Master Jc French|Files Removed]
+
+[Package|Lingua-Master Jc French|Files In Project]
+C:\Lingua-Master files\Lingua-Master source code\2003\JC French\Code\Lingua-Master Junior Cert. French.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Visual Basic\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Common Files\Designer\MSDERUN.DLL=Yes
+C:\Program Files\Common Files\SYSTEM\ADO\msado20.tlb=Yes
+C:\Program Files\Visual Basic\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Visual Basic\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Visual Basic\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Visual Basic\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\frenchie\WEBPRO32.OCX=Yes
+C:\frenchie\SWFlash.ocx=Yes
+C:\frenchie\COMDLG32.OCX=Yes
+C:\frenchie\Richtx32.ocx=Yes
+C:\frenchie\Lingua.ocx=Yes
+C:\Lingua-Master files\Lingua-Master source code\2003\JC French\Compiled\Lingua-Master Junior Cert. French\Resize32.ocx=Yes
+C:\Lingua-Master files\Lingua-Master source code\2003\JC French\Compiled\Lingua-Master Junior Cert. French\Mscomctl.ocx=Yes
+C:\Lingua-Master files\Lingua-Master source code\2003\JC French\Compiled\Lingua-Master Junior Cert. French\advpack.dll=Yes
+C:\Lingua-Master files\Lingua-Master source code\2003\JC French\Compiled\Lingua-Master Junior Cert. French\W95INF16.DLL=Yes
+C:\Lingua-Master files\Lingua-Master source code\2003\JC French\Compiled\Lingua-Master Junior Cert. French\w95inf32.dll=Yes
+
+[Package|Lingua-Master Jc French|Configure Registry Files]
+Applicable=No
+
+[Package|Lingua-Master Jc French|Configure Remote Servers]
+Applicable=No
+
+[Package|Lingua-Master Jc French|Install Locations]
+C:\Lingua-Master files\Lingua-Master source code\2003\JC French\Code\Lingua-Master Junior Cert. French.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Visual Basic\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Lingua-Master files\Lingua-Master source code\2003\JC French\Code\WEBPRO32.OCX=$(WinSysPath)
+C:\Program Files\M-M JC Higher Trigonometry\SWFlash.ocx=$(WinSysPath)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\Lingua-Master files\Lingua-Master source code\2003\JC French\Code\Richtx32.ocx=$(WinSysPath)
+C:\Program Files\M-M JC Higher Trigonometry\Lingua.ocx=$(WinSysPath)
+C:\Program Files\Common Files\Designer\MSDERUN.DLL=$(AppPath)
+C:\Program Files\Common Files\SYSTEM\ADO\msado20.tlb=$(AppPath)
+C:\Program Files\Visual Basic\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Visual Basic\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Visual Basic\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Visual Basic\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\frenchie\WEBPRO32.OCX=$(AppPath)
+C:\frenchie\SWFlash.ocx=$(AppPath)
+C:\frenchie\COMDLG32.OCX=$(AppPath)
+C:\frenchie\Richtx32.ocx=$(AppPath)
+C:\frenchie\Lingua.ocx=$(AppPath)
+C:\Lingua-Master files\Lingua-Master source code\2003\JC French\Compiled\Lingua-Master Junior Cert. French\Resize32.ocx=$(AppPath)
+C:\Lingua-Master files\Lingua-Master source code\2003\JC French\Compiled\Lingua-Master Junior Cert. French\Mscomctl.ocx=$(AppPath)
+C:\Lingua-Master files\Lingua-Master source code\2003\JC French\Compiled\Lingua-Master Junior Cert. French\advpack.dll=$(AppPath)
+C:\Lingua-Master files\Lingua-Master source code\2003\JC French\Compiled\Lingua-Master Junior Cert. French\W95INF16.DLL=$(AppPath)
+C:\Lingua-Master files\Lingua-Master source code\2003\JC French\Compiled\Lingua-Master Junior Cert. French\w95inf32.dll=$(AppPath)
+
+[Package|Lingua-Master Jc French|Configure Shared Files]
+Applicable=Yes
+C:\Lingua-Master files\Lingua-Master source code\2003\JC French\Code\Lingua-Master Junior Cert. French.exe=No
+C:\Program Files\Visual Basic\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+C:\frenchie\WEBPRO32.OCX=No
+C:\frenchie\SWFlash.ocx=No
+C:\frenchie\COMDLG32.OCX=No
+C:\frenchie\Richtx32.ocx=No
+C:\frenchie\Lingua.ocx=No
+C:\Program Files\Common Files\Designer\MSDERUN.DLL=No
+C:\Program Files\Common Files\SYSTEM\ADO\msado20.tlb=No
+C:\Lingua-Master files\Lingua-Master source code\2003\JC French\Compiled\Lingua-Master Junior Cert. French\Resize32.ocx=No
+C:\Lingua-Master files\Lingua-Master source code\2003\JC French\Compiled\Lingua-Master Junior Cert. French\Mscomctl.ocx=No
+C:\Lingua-Master files\Lingua-Master source code\2003\JC French\Compiled\Lingua-Master Junior Cert. French\advpack.dll=No
+C:\Lingua-Master files\Lingua-Master source code\2003\JC French\Compiled\Lingua-Master Junior Cert. French\W95INF16.DLL=No
+C:\Lingua-Master files\Lingua-Master source code\2003\JC French\Compiled\Lingua-Master Junior Cert. French\w95inf32.dll=No
+
+[Package|Lingua-Master Jc French|Distribution]
+Type=single
+Size=
+Title=Lingua-Master Junior Cert. French
+
+[Package|Lingua-Master Jc French|IconGroups]
+Group0=Lingua-Master Junior Cert. French
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Lingua-Master Jc French|Lingua-Master Junior Cert. French]
+Icon1="Lingua-Master Junior Cert. French.exe"
+Title1=Lingua-Master Junior Cert. French
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Lingua-Master Jc French|Package]
+PackageFolder=C:\Installs\Jc French
+ProjectFolder=C:\Lingua-Master files\Lingua-Master source code\2003\JC French\Code
+ServerSideCab=
+File1=C:\Installs\Jc French\setup.exe
+File2=C:\Installs\Jc French\Setup.Lst
+File3=C:\Installs\Jc French\Lingua-Master Junior Cert. French.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
